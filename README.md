@@ -42,8 +42,8 @@ A downloaded image named `output-1.jpg` located in a temporary directory.
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/node-pdf-thumbnail-creator.git
-   cd node-pdf-thumbnail-creator
+   git clone https://github.com/Punit-esh/PDF-to-Image-Converter-API.git
+   cd PDF-to-Image-Converter-API
    ```
 
 2. Install dependencies:
